@@ -30,6 +30,8 @@ const funcRandom = () => {
     "Muhammad Randi",
   ];
 
+  console.log("test test git clone");
+
   let arrIndex = [];
   for (let i = 0; i < 500; i++) {
     const nRandom = Math.floor(Math.random() * 27 + 0);
